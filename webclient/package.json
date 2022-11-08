@@ -20,9 +20,9 @@
     "react-js-pagination": "^3.0.3",
     "react-moment": "^0.9.7",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^3.4.3",
+    "react-scripts": "^4.0.0",
     "react-toastify": "^6.0.0-rc.2-1",
-    "serve": "^11.3.2",
+    "serve": "^14.1.0",
     "smartweave": "https://arweave.net/AM-u4X2po-3Tx7fma3lRonCfLwrjI42IALwDL_YFXBs",
     "yargs-parser": "^18.1.3"
   },
