@@ -34,7 +34,7 @@
   "author": "Mike Hibbert",
   "license": "ISC",
   "dependencies": {
-    "@nodegui/nodegui": "^0.26.0",
+    "@nodegui/nodegui": "^0.30.1",
     "@sentry/node": "^5.27.3",
     "@sentry/tracing": "^5.27.3",
     "arweave": "^1.9.1",
@@ -66,7 +66,7 @@
     "node-jwk": "^0.1.0",
     "node-notifier": "^8.0.1",
     "node-rsa": "^1.1.1",
-    "nodemon": "^2.0.4",
+    "nodemon": "^2.0.17",
     "npm-run-all": "^4.1.5",
     "npx": "^10.2.2",
     "ps-node": "^0.1.6",
@@ -79,7 +79,7 @@
     "utimes": "^4.0.2",
     "windows-shortcuts-appid": "^0.3.2",
     "winston": "^3.3.3",
-    "xpc-connect": "^2.0.0"
+    "xpc-connect": "^3.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
