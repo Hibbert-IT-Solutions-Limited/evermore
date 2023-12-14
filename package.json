@@ -37,7 +37,7 @@
     "@nodegui/nodegui": "^0.26.0",
     "@sentry/node": "^5.27.3",
     "@sentry/tracing": "^5.27.3",
-    "arweave": "^1.9.1",
+    "arweave": "^1.12.3",
     "async": "^3.2.0",
     "axios": "^0.21.1",
     "bl": ">=1.2.3",
