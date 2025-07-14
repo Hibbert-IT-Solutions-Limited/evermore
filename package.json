@@ -54,7 +54,7 @@
     "file-loader": "^6.0.0",
     "follow-redirects": "^1.13.0",
     "fs-extra": "^9.0.1",
-    "glob": "^7.1.6",
+    "glob": "^9.0.0",
     "lowdb": "^1.0.0",
     "mime-types": "^2.1.27",
     "named-pipes": "0.0.1",
@@ -70,7 +70,7 @@
     "npm-run-all": "^4.1.5",
     "npx": "^10.2.2",
     "ps-node": "^0.1.6",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.3.1",
     "shortid": "^2.2.15",
     "smartweave": "https://arweave.net/AM-u4X2po-3Tx7fma3lRonCfLwrjI42IALwDL_YFXBs",
     "systray": "^1.0.5",
@@ -79,7 +79,7 @@
     "utimes": "^4.0.2",
     "windows-shortcuts-appid": "^0.3.2",
     "winston": "^3.3.3",
-    "xpc-connect": "^2.0.0"
+    "xpc-connect": "^3.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
